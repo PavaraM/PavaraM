@@ -1,4 +1,4 @@
-# Hi There I'm Pavara Mirihagalla:wave:
+# Hi There.... I'm Pavara Mirihagalla:wave:
 ## Tools I use!
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)
