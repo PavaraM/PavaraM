@@ -1,19 +1,20 @@
 # Hey there, I'm Pavara 👋
 
-Aspiring DevOps & Linux enthusiast. Self-learning A/L Commerce by day, tinkering with tech by night.
+Just starting my journey into DevOps, Linux, and automation.  
+This repo is my playground to learn, experiment, and level up my skills.
 
-## 🛠 Skills
-- Linux & Ubuntu
-- DevOps basics (Docker, CI/CD)
-- Python, Bash scripting
-- Cloud: AWS (learning), GitHub Actions
+## 🌱 Currently Learning
+- Linux basics & Ubuntu  
+- Git & GitHub  
+- Bash scripting  
+- DevOps tools (Docker, CI/CD, etc.)
 
-## 📌 Currently Learning
-- Kubernetes
-- Terraform
-- CI/CD pipelines
+## 📌 Future Goals
+- Build automation scripts  
+- Learn cloud technologies like AWS  
+- Share my experiments & configs
 
 ## 🎵 Fun vibes
-- Vinyl collector
-- Lofi study sessions
-- HP EliteBook setup fanatic
+- Vinyl collector & lofi study sessions  
+- HP EliteBook setup fanatic  
+- Tinkering with tech whenever I can
