@@ -16,4 +16,8 @@ cd ..      # go back
 ## File Management
 ```bash
 touch      # Create an empty file
+cat        # View content in a file (Inside the terminal, text only)
+rm         # Delete a file
+rm -r      # Delete a directory
+
 ```
