@@ -11,6 +11,7 @@ ls         # list files
 ls -la     # list all files + permissions
 cd folder  # move into folder
 cd ..      # go back
+```
 
 ## File Management
 touch      # Create an empty file
