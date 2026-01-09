@@ -14,4 +14,6 @@ cd ..      # go back
 ```
 
 ## File Management
+```bash
 touch      # Create an empty file
+```
