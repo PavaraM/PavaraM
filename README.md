@@ -18,3 +18,5 @@ This repo is my playground to learn, experiment, and level up my skills.
 - Vinyl collector & lofi study sessions  
 - HP EliteBook setup fanatic  
 - Tinkering with tech whenever I can
+
+Im still learning and my GitHub Profile is still under construction. LMFAO
