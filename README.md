@@ -1,5 +1,10 @@
 # 💫 About Me:
-🌱 Currently learning:<br>    linux (Ubuntu) & system basics  <br>    Git & GitHub (version control & workflows)  <br>    Bash scripting  <br>    DevOps fundamentals: Docker, CI/CD, automation  <br><br>🎯 Goal: Build strong hands-on DevOps skills and break into the industry  <br>⚡ Fun fact: I enjoy tinkering with systems and automating small things  <br> 📫 Reach me at: pavaramirihagalla@icloud.com<br>
+🌱 Currently learning:
+- linux (Ubuntu) & system basics
+- Git & GitHub (version control & workflows)
+- Bash scripting
+- DevOps fundamentals: Docker, CI/CD, automation
+<br><br>🎯 Goal: Build strong hands-on DevOps skills and break into the industry  <br>⚡ Fun fact: I enjoy tinkering with systems and automating small things  <br> 📫 Reach me at: pavaramirihagalla@icloud.com<br>
 
 
 ## 🌐 Socials:
