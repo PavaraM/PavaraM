@@ -1,90 +1,56 @@
 <div align="center">
 
-# 👋 Hey there! I'm Pavara
+# Pavara Mirihagalla
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3DAEE9&center=true&vCenter=true&width=600&lines=Linux+Enthusiast+%F0%9F%90%A7;Code+Enthusiast+%F0%9F%92%BB;Always+Exploring+%F0%9F%9A%80;Open+Source+Contributor+%E2%9A%A1" alt="Typing SVG" />
+**DevOps Engineer in training — building production-grade infrastructure from first principles.**
 
-<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="500">
-
-</div>
-
----
-
-### 🚀 About Me
-
-```javascript
-const pavara = {
-    pronouns: "he" | "him",
-    location: "Sri Lanka 🇱🇰",
-    currentlyLearning: ["Docker", "Bash Scripting", "DevOps Tools"],
-    funFact: "I believe every bug is just a feature in disguise 🐛✨",
-    hobbies: ["Coding", "Breaking things (and fixing them!)"]
-};
-```
-
----
-
-### 🛠️ Tech Stack & Tools
-
-<div align="center">
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge)
-![Bash](https://img.shields.io/badge/GNU_Bash-4EAA25?logo=gnubash&logoColor=white&style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
-
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
+[![GitHub followers](https://img.shields.io/github/followers/PavaraM?style=flat&logo=github&labelColor=1a1a1a&color=4a4a4a)](https://github.com/PavaraM)
+[![Profile views](https://komarev.com/ghpvc/?username=PavaraM&style=flat&labelColor=1a1a1a&color=4a4a4a)](https://github.com/PavaraM)
 
 </div>
 
 ---
 
-### 🎯 What I'm Up To
+## What I'm focused on
 
-```bash
-$ whoami
-pavara
+Self-taught DevOps track on a structured 12-month roadmap: **Linux → Git → Docker → Kubernetes → CI/CD → Terraform → Cloud.** Working toward a remote junior DevOps role, with a longer arc toward **DevOps Architect** and migration to **Australia** via the ACS RPL pathway (ANZSCO 261316).
 
-$ pwd
-~/learning/everyday
-
-$ ls goals/
-docker-mastery.md  bash-wizardry.sh  web-dev-journey/  open-source-contributions/
-
-$ cat motivation.txt
-"Code, learn, repeat. And have fun along the way! 🚀"
-```
+Currently shipping: documentation, hardening, and moving projects from local-only to deployed infrastructure.
 
 ---
 
-### 📫 Let's Connect!
+## Featured work
 
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pavaramirihagalla@gmail.com)
-[![Medium](https://img.shields.io/badge/Read_My_Posts-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@pavaramirihagalla)
-[![GitHub](https://img.shields.io/badge/Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PavaraM)
-
-</div>
+| Project | What it is | Stack |
+|---|---|---|
+| [**devbox**](https://github.com/PavaraM/devbox) | Modular Bash bootstrapper for Ubuntu/Debian dev environments — idempotent provisioning, SSH hardening, UFW, deploy-user setup, dry-run mode, structured logging. v1.2.0. | Bash, UFW, systemd |
+| [**cicd-demo**](https://github.com/PavaraM/cicd-demo) | Flask API built, tested, security-scanned, containerized, and blue/green-deployed on every push to `main`. | Python, Docker, GitHub Actions, Trivy |
+| [**bash-logger**](https://github.com/PavaraM/bash-logger) | Reusable logging library for Bash — multi-level logs, retention, sudo-aware ownership, config validation. | Bash |
 
 ---
 
-<div align="center">
+## Stack I work with
 
-### 💡 Random Dev Quote
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
+<p>
+  <img alt="Bash" src="https://img.shields.io/badge/Bash-1a1a1a?style=flat&logo=gnubash&logoColor=eaeaea">
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-1a1a1a?style=flat&logo=linux&logoColor=eaeaea">
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-1a1a1a?style=flat&logo=docker&logoColor=eaeaea">
+  <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-1a1a1a?style=flat&logo=githubactions&logoColor=eaeaea">
+  <img alt="Python" src="https://img.shields.io/badge/Python-1a1a1a?style=flat&logo=python&logoColor=eaeaea">
+  <img alt="Git" src="https://img.shields.io/badge/Git-1a1a1a?style=flat&logo=git&logoColor=eaeaea">
+  <img alt="AWS" src="https://img.shields.io/badge/AWS-1a1a1a?style=flat&logo=amazonwebservices&logoColor=eaeaea">
+</p>
 
 ---
 
-<div align="center">
+## Certifications in progress
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3DAEE9,100:6E40C9&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=30&fontColor=fff&animation=twinkling" width="100%"/>
+- **AWS Cloud Practitioner** — in progress
+- **CompTIA Linux+** — planned, near-term target
 
-<img src="https://komarev.com/ghpvc/?username=PavaraM&label=Profile%20Views&color=3daee9&style=flat-square" alt="Profile Views" />
+---
 
-</div>
+## Contact
+
+- **Email:** pavaramirihagalla@icloud.com
+- **GitHub:** [@PavaraM](https://github.com/PavaraM)
