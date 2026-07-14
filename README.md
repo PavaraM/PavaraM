@@ -13,7 +13,7 @@
 
 ## What I'm focused on
 
-Self-taught DevOps track on a structured 12-month roadmap: **Linux → Git → Docker → Kubernetes → CI/CD → Terraform → Cloud.** Working toward a remote junior DevOps role, with a longer arc toward **DevOps Architect** and migration to **Australia** via the ACS RPL pathway (ANZSCO 261316).
+Self-taught DevOps track on a structured 12-month roadmap: **Linux → Git → Docker → CI/CD → Networking → AWS → Terraform → Kubernetes → Monitoring.** Working toward a remote junior DevOps role, with a longer arc toward **DevOps Architect** and migration to **Australia** via the ACS RPL pathway (ANZSCO 261316).
 
 Currently shipping: documentation, hardening, and moving projects from local-only to deployed infrastructure.
 
@@ -31,14 +31,21 @@ Currently shipping: documentation, hardening, and moving projects from local-onl
 
 ## Stack I work with
 
-<img src="https://skillicons.dev/icons?i=linux,git,docker,githubactions,aws,bash,python,arch" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,git,docker,githubactions,aws,bash,python,arch" />
+</p>
 
 ---
 
-## Certifications in progress
+## Certifications
 
-- **AWS Cloud Practitioner** — in progress
-- **CompTIA Linux+** — planned, near-term target
+| Certification | Target |
+|---|---|
+| **AWS Cloud Practitioner** | Dec 2026 — in progress |
+| **CompTIA Linux+** | Dec 2026 — planned |
+| **Terraform Associate** | Mar 2027 |
+| **CKA** | Sep 2027 |
+| **AWS DevOps Engineer Professional** | 2030+ |
 
 ---
 
@@ -46,3 +53,4 @@ Currently shipping: documentation, hardening, and moving projects from local-onl
 
 - **Email:** pavaramirihagalla@icloud.com
 - **GitHub:** [@PavaraM](https://github.com/PavaraM)
+- **Portfolio:** [pavaram.github.io/portfolio](https://pavaram.github.io/portfolio)
