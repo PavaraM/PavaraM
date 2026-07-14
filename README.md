@@ -31,7 +31,7 @@ Currently shipping: documentation, hardening, and moving projects from local-onl
 
 ## Stack I work with
 
-<img src="https://skillicons.dev/icons?i=bash,linux,arch,docker,githubactions,python,git,aws" />
+<img src="https://skillicons.dev/icons?i=linux,git,docker,githubactions,aws,bash,python,arch" />
 
 ---
 
