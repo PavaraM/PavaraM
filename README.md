@@ -31,16 +31,7 @@ Currently shipping: documentation, hardening, and moving projects from local-onl
 
 ## Stack I work with
 
-<p>
-  <img alt="Bash" src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=fff">
-  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=111">
-  <img alt="Arch" src="https://img.shields.io/badge/Arch-1793D1?style=flat&logo=archlinux&logoColor=fff">
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=fff">
-  <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=fff">
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=fff">
-  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=fff">
-  <img alt="AWS" src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonwebservices&logoColor=111">
-</p>
+<img src="https://skillicons.dev/icons?i=bash,linux,arch,docker,githubactions,python,git,aws" />
 
 ---
 
