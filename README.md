@@ -34,6 +34,7 @@ Currently shipping: documentation, hardening, and moving projects from local-onl
 <p>
   <img alt="Bash" src="https://img.shields.io/badge/Bash-1a1a1a?style=flat&logo=gnubash&logoColor=eaeaea">
   <img alt="Linux" src="https://img.shields.io/badge/Linux-1a1a1a?style=flat&logo=linux&logoColor=eaeaea">
+  <img alt="Arch" src="https://img.shields.io/badge/Arch-1a1a1a?style=flat&logo=archlinux&logoColor=eaeaea">
   <img alt="Docker" src="https://img.shields.io/badge/Docker-1a1a1a?style=flat&logo=docker&logoColor=eaeaea">
   <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-1a1a1a?style=flat&logo=githubactions&logoColor=eaeaea">
   <img alt="Python" src="https://img.shields.io/badge/Python-1a1a1a?style=flat&logo=python&logoColor=eaeaea">
