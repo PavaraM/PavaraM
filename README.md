@@ -4,8 +4,8 @@
 
 **DevOps Engineer in training — building production-grade infrastructure from first principles.**
 
-[![GitHub followers](https://img.shields.io/github/followers/PavaraM?style=flat&logo=github&labelColor=1a1a1a&color=4a4a4a)](https://github.com/PavaraM)
-[![Profile views](https://komarev.com/ghpvc/?username=PavaraM&style=flat&labelColor=1a1a1a&color=4a4a4a)](https://github.com/PavaraM)
+[![GitHub followers](https://img.shields.io/github/followers/PavaraM?style=flat&logo=github&labelColor=1A1815&color=B08D57)](https://github.com/PavaraM)
+[![Profile views](https://komarev.com/ghpvc/?username=PavaraM&style=flat&labelColor=1A1815&color=B08D57)](https://github.com/PavaraM)
 
 </div>
 
