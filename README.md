@@ -23,20 +23,38 @@
 
 ## Roadmap: 12-Month DevOps Track
 
-| Phase | Topic | Status | Key Skill |
-|---|---|---|---|
-| 1–2 | **Linux fundamentals** | ✅ Completed | System administration, bash scripting |
-| 3–4 | **Git & version control** | ✅ Completed | Branching, collaboration workflows |
-| 5–6 | **Docker & containerization** | 🔄 In Progress | Multi-stage builds, image optimization |
-| 7 | **CI/CD pipelines** | ⏳ Planned | GitHub Actions, automated deployments |
-| 8–9 | **Networking & security** | ⏳ Planned | VPC, firewalls, secrets management |
-| 10 | **AWS cloud services** | ⏳ Planned | EC2, RDS, S3, IAM, CloudFormation |
-| 11 | **Terraform & IaC** | ⏳ Planned | Infrastructure-as-code, state management |
-| 12 | **Kubernetes orchestration** | ⏳ Planned | Deployments, scaling, monitoring |
+**Phase 1 — Foundations** ✅ *Core foundations in progress*
+- ✅ Linux & Bash scripting (completed)
+- ✅ Git & version control (completed)
+- 🔄 Networking & security fundamentals (in progress)
+- 🔄 Docker & containerization (in progress)
 
-**Current focus:** Hardening, documentation, and moving projects from local-only to cloud-deployed infrastructure.
+**Phase 2 — Core DevOps Skills** 📚 *Next: CI/CD through Kubernetes*
+- CI/CD pipelines (GitHub Actions)
+- Terraform & infrastructure-as-code
+- Kubernetes orchestration
+- AWS cloud services
+- Monitoring (Prometheus, Grafana)
+- Ansible automation
 
-**Career goal:** Remote junior DevOps role → DevOps Architect; migration to **Australia** via ACS RPL pathway (ANZSCO 261316)
+**Phase 3 — Production Thinking** 🎯 *Mastery begins here*
+- SRE principles (error budgets, SLOs, SLIs)
+- Security hardening (secrets, RBAC, compliance)
+- Incident response & runbooks
+
+**2026 Timeline** (Month by month)
+- Jan ✅ Linux, Bash scripting, Git — foundations solid
+- Feb ✅ Git deep dive, modular Bash architecture
+- Mar ✅ Docker & Docker Compose — multi-stage builds
+- Apr ✅ CI/CD with GitHub Actions — test, build, deploy
+- May ✅ Networking & security — harden real server, UFW, HTTPS
+- Jun ✅ AWS basics — EC2, S3, IAM, live cloud app
+- Jul 🔄 Terraform — reproducible infrastructure
+- Aug 📅 Kubernetes — local cluster, real deployments
+- Sep 📅 Monitoring — Prometheus, Grafana, four golden signals
+- Oct 📅 Advanced CI/CD + Ansible — full end-to-end automation
+
+**Career trajectory:** Remote junior DevOps role → DevOps Architect; migration to **Australia** via ACS RPL pathway (ANZSCO 261316, target: 2033)
 
 <svg width="40" height="1" viewBox="0 0 40 1" style="display:block;margin:2rem auto"><path d="M0 .5h40" stroke="#B08D57" stroke-width=".5" opacity=".6"/></svg>
 
