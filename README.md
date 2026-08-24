@@ -23,13 +23,13 @@
 
 ## Roadmap & Progress
 
-**Phase 1 — Foundations** ✅ *In progress*  
+**Phase 1 — Foundations** ✅ *Completed*  
 Linux & Bash, Git, Networking, Docker fundamentals
 
-**Phase 2 — Core DevOps Skills** 📚 *Next*  
+**Phase 2 — Core DevOps Skills** 🔄 *In progress*  
 CI/CD, Terraform, Kubernetes, AWS, Monitoring, Ansible
 
-**Phase 3 — Production Thinking** 🎯 *2027+*  
+**Phase 3 — Production Thinking** 📚 *2027+*  
 SRE, Security, Incident Response
 
 📋 **[View detailed 12-month timeline & skills breakdown](https://github.com/PavaraM/PavaraM/tree/main/Documents/DevOps%20Career)**
