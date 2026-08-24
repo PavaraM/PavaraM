@@ -21,40 +21,20 @@
 
 <svg width="40" height="1" viewBox="0 0 40 1" style="display:block;margin:2rem auto"><path d="M0 .5h40" stroke="#B08D57" stroke-width=".5" opacity=".6"/></svg>
 
-## Roadmap: 12-Month DevOps Track
+## Roadmap & Progress
 
-**Phase 1 — Foundations** ✅ *Core foundations in progress*
-- ✅ Linux & Bash scripting (completed)
-- ✅ Git & version control (completed)
-- 🔄 Networking & security fundamentals (in progress)
-- 🔄 Docker & containerization (in progress)
+**Phase 1 — Foundations** ✅ *In progress*  
+Linux & Bash, Git, Networking, Docker fundamentals
 
-**Phase 2 — Core DevOps Skills** 📚 *Next: CI/CD through Kubernetes*
-- CI/CD pipelines (GitHub Actions)
-- Terraform & infrastructure-as-code
-- Kubernetes orchestration
-- AWS cloud services
-- Monitoring (Prometheus, Grafana)
-- Ansible automation
+**Phase 2 — Core DevOps Skills** 📚 *Next*  
+CI/CD, Terraform, Kubernetes, AWS, Monitoring, Ansible
 
-**Phase 3 — Production Thinking** 🎯 *Mastery begins here*
-- SRE principles (error budgets, SLOs, SLIs)
-- Security hardening (secrets, RBAC, compliance)
-- Incident response & runbooks
+**Phase 3 — Production Thinking** 🎯 *2027+*  
+SRE, Security, Incident Response
 
-**2026 Timeline** (Month by month)
-- Jan ✅ Linux, Bash scripting, Git — foundations solid
-- Feb ✅ Git deep dive, modular Bash architecture
-- Mar ✅ Docker & Docker Compose — multi-stage builds
-- Apr ✅ CI/CD with GitHub Actions — test, build, deploy
-- May ✅ Networking & security — harden real server, UFW, HTTPS
-- Jun ✅ AWS basics — EC2, S3, IAM, live cloud app
-- Jul 🔄 Terraform — reproducible infrastructure
-- Aug 📅 Kubernetes — local cluster, real deployments
-- Sep 📅 Monitoring — Prometheus, Grafana, four golden signals
-- Oct 📅 Advanced CI/CD + Ansible — full end-to-end automation
+📋 **[View detailed 12-month timeline & skills breakdown](https://github.com/PavaraM/PavaraM/tree/main/Documents/DevOps%20Career)**
 
-**Career trajectory:** Remote junior DevOps role → DevOps Architect; migration to **Australia** via ACS RPL pathway (ANZSCO 261316, target: 2033)
+**Target:** Remote junior DevOps role → DevOps Architect; Australia via ACS RPL by 2033
 
 <svg width="40" height="1" viewBox="0 0 40 1" style="display:block;margin:2rem auto"><path d="M0 .5h40" stroke="#B08D57" stroke-width=".5" opacity=".6"/></svg>
 
