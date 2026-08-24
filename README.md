@@ -24,7 +24,7 @@ Currently: documentation, hardening, and moving projects from local-only to depl
 | Project | Description | Stack |
 |---|---|---|
 | [**devbox**](https://github.com/PavaraM/devbox) | Modular Bash bootstrapper for Ubuntu/Debian dev environments. Idempotent provisioning, SSH hardening, UFW, deploy-user setup, dry-run mode, structured logging. | Bash, UFW, systemd |
-| [**cicd-demo**](https://github.com/PavaraM/cicd-demo) | Flask API with multi-stage Docker, Trivy security scanning, and blue-green deployment on every push to `main`. | Python, Docker, GitHub Actions, Trivy |
+| [**cicd-demo**](https://github.com/PavaraM/cicd-demo) | API service with multi-stage Docker builds, Trivy security scanning, and blue-green deployment on every push to `main`. | Docker, GitHub Actions, Trivy |
 | [**bash-logger**](https://github.com/PavaraM/bash-logger) | Reusable logging library for Bash — multi-level logs, retention, sudo-aware ownership, config validation. | Bash |
 
 <svg width="40" height="1" viewBox="0 0 40 1" style="display:block;margin:2rem auto"><path d="M0 .5h40" stroke="#B08D57" stroke-width=".5" opacity=".6"/></svg>
@@ -32,7 +32,7 @@ Currently: documentation, hardening, and moving projects from local-only to depl
 ## Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,git,docker,githubactions,aws,bash,python,arch" />
+  <img src="https://skillicons.dev/icons?i=linux,git,docker,githubactions,aws,bash,python,go,arch" />
 </p>
 
 <p align="center">
