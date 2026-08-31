@@ -50,13 +50,13 @@ SRE, Security, Incident Response
 
 ## Technical Stack
 
-**Core:** Linux, Bash, Git, Docker, GitHub Actions  
-**Cloud & IaC:** AWS (learning), Terraform (Q1 2027)  
-**Languages:** Bash, Python, Go  
+**Core:** Linux, Bash, Git, Docker, GitHub Actions, Terraform  
+**Cloud & IaC:** AWS (learning), Terraform (learning — Q1 2027 target)  
+**Languages:** Bash, Python (foundational), Go (foundational)  
 **Infrastructure:** CI/CD pipelines, containerization, infrastructure-as-code, security hardening
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,git,docker,githubactions,aws,bash,python,go,arch" />
+  <img src="https://skillicons.dev/icons?i=linux,git,docker,githubactions,aws,bash,python,go,terraform,arch" />
 </p>
 
 <p align="center">
