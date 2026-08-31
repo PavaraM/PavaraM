@@ -51,12 +51,12 @@ SRE, Security, Incident Response
 ## Technical Stack
 
 **Core:** Linux, Bash, Git, Docker, GitHub Actions, Terraform  
-**Cloud & IaC:** AWS (learning), Terraform (learning — Q1 2027 target)  
+**Cloud & IaC:** AWS (learning), Oracle Cloud (learning), Terraform (learning — Q1 2027 target)  
 **Languages:** Bash, Python (foundational), Go (foundational)  
 **Infrastructure:** CI/CD pipelines, containerization, infrastructure-as-code, security hardening
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,git,docker,githubactions,aws,bash,python,go,terraform,arch" />
+  <img src="https://skillicons.dev/icons?i=linux,git,docker,githubactions,aws,oracle,bash,python,go,terraform,arch" />
 </p>
 
 <p align="center">
@@ -70,6 +70,7 @@ SRE, Security, Incident Response
 | Certification | Target | Progress |
 |---|---|---|
 | **AWS Cloud Practitioner** | Dec 2026 | In progress — study materials available |
+| **Oracle Cloud Infrastructure Foundations** | 2027 | Planned |
 | **Terraform Associate** | Mar 2027 | Planned — after AWS fundamentals |
 | **CKA** | Sep 2027 | Planned — Kubernetes orchestration |
 | **AWS DevOps Engineer Professional** | 2030+ | Long-term goal |
