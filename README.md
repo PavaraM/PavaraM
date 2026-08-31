@@ -56,7 +56,7 @@ SRE, Security, Incident Response
 **Infrastructure:** CI/CD pipelines, containerization, infrastructure-as-code, security hardening
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,git,docker,githubactions,aws,oracle,bash,python,go,terraform,arch" />
+  <img src="https://skillicons.dev/icons?i=linux,git,docker,githubactions,aws,bash,python,go,terraform,arch" />
 </p>
 
 <p align="center">
