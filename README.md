@@ -70,7 +70,6 @@ SRE, Security, Incident Response
 | Certification | Target | Progress |
 |---|---|---|
 | **AWS Cloud Practitioner** | Dec 2026 | In progress — study materials available |
-| **CompTIA Linux+** | Dec 2026 | Planned — complements hands-on Linux work |
 | **Terraform Associate** | Mar 2027 | Planned — after AWS fundamentals |
 | **CKA** | Sep 2027 | Planned — Kubernetes orchestration |
 | **AWS DevOps Engineer Professional** | 2030+ | Long-term goal |
